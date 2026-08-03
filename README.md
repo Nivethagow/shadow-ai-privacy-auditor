@@ -1,5 +1,5 @@
 
-**Live URL:** <!-- Add your Streamlit Cloud URL here after deployment -->
+**Live URL:** [Shadow AI Privacy Auditor](https://shadow-ai-privacy-auditor-11.streamlit.app)
 
 ## 🔒 Shadow AI Privacy Auditor
 
@@ -55,7 +55,7 @@ Welcome! This is your personal repository for the CDF Shadow AI Hackathon. The p
 
 Push to your designated repository before the **5-day deadline**. Your repo state at the deadline is your submission.
 
-- [x] Live deployment URL added at the top of this README - mandatory
+- [ ] Live deployment URL added at the top of this README - mandatory
 - [ ] Completed planning document in `planning/planning.md`
 - [ ] Working application in `src/`
 - [ ] At least **10 test cases** (including safe examples that stay unchanged) documented in `docs/` or `planning/`
